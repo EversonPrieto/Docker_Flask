@@ -120,7 +120,8 @@ http://localhost:8080
 
 ### 4. Captura de Tela
 A aplicação foi acessada no navegador e uma captura de tela foi realizada como evidência de funcionamento.
-![53512484-0ea5-425b-a9e0-4702eea1020b](https://github.com/user-attachments/assets/3829c64d-d13a-4773-b480-610a19cb0a58)
+![53512484-0ea5-425b-a9e0-4702eea1020b](https://github.com/user-attachments/assets/15f0087c-5d21-415f-a328-2c6a0573205d)
+
 
 ### Integrantes:
 Éverson Prieto
